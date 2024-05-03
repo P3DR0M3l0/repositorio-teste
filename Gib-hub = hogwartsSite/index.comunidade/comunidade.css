@@ -1,0 +1,104 @@
+body {
+    background-position: center;
+    background: url(https://i.pinimg.com/564x/47/ea/fa/47eafa76f61e6b29af25b1d4262c35c9.jpg );
+}
+
+.potter {
+
+    margin-left: 15px;
+    display: block;
+    padding: 35px;
+    background: url(https://www.bing.com/th/id/OGC.8fb2c234a8c71dbdae5811db0a09cdee?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fYHJxW0Gx7dKN2%2fgiphy.gif&ehk=LQn0Rldsxo%2fmN%2bZUfDg%2fEKxpdK4uLgMrHj06t%2fCJ0f4%3d);
+    background-size: cover;
+    border-radius: 35px;
+    width: 385px;
+    height: 300px;
+    margin-left: 425px;
+
+}
+
+#draco3 {
+    color: white;
+    padding: 0, 9px;
+    background: transparent;
+    border-radius: 12px;
+
+}
+
+#amarelo {
+
+    margin-left: 35px;
+    padding: 1, 5px;
+    border: 2px;
+    border-radius: 8px;
+    color: black;
+    text-align: left;
+    font-size: 16px;
+
+
+}
+
+#potte {
+    margin-left: -10px;
+    width: 1341px;
+    padding: 10px;
+    background: url(https://th.bing.com/th/id/R.0f1926b2d61da3fc016fce7aa7647584?rik=d5vxFq%2fF4Mrzyg&pid=ImgRaw&r=0);
+    background-position: 50px;
+  
+}
+
+a,
+#nnn {
+
+    margin-left: 10px;
+    align-items: center;
+    padding-right: 35px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px transparent;
+    display: center;
+    justify-content: space-around;
+    transition: 0.6s;
+
+
+}
+
+h1,
+h2,
+h3 {
+    border-radius: 20px;
+    background: rgb(194, 191, 186);
+    text-align: center;
+    font-family: cursive;
+}
+
+#black {
+    font-size: 18px;
+    padding: 0, 5px;
+    border: 25px color(white);
+    border-radius: 20px;
+}
+
+#amarelo {
+    height: 22px;
+    margin-left: 35px;
+    padding: 1, 5px;
+    border: 2px;
+    border-radius: 8px;
+    color: black;
+    text-align: left;
+    font-size: 16px;
+}
+
+#amarelo1 {
+    width: 250px;
+    height: 22px;
+    margin-left: 35px;
+    padding: 1, 5px;
+    border: 2px;
+    border-radius: 8px;
+    color: black;
+    text-align: left;
+
+}

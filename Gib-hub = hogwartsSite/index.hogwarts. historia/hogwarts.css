@@ -1,0 +1,191 @@
+body {
+
+    background: url(https://i.gifer.com/llK.gif);
+    justify-items: center;
+}
+
+h1,
+h2 {
+
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    padding: 10px;
+    margin: 25px;
+    margin-left: 390px;
+    margin-right: 390px;
+    border-radius: 20px;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+}
+
+p {
+    border: 2px solid #000;
+    padding: 10px;
+    color: white;
+    background: rgb(211, 170, 101);
+    border-radius: 15px;
+    font-size: 18;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+ul,
+li {
+
+    padding: 20px;
+    font-family: cursive;
+    border-radius: 12px;
+    font-size: 20;
+}
+
+
+#verde {
+
+
+    padding: 10px;
+    margin-right: 55px;
+    float: right;
+    width: 415px;
+    height: 320px;
+}
+
+
+.sonseriana {
+    font-size: 18px;
+    margin-left: 30px;
+    padding-left: 35px;
+    text-align: left;
+    background: rgb(211, 170, 101);
+    width: 650px;
+    height: 290px;
+
+
+
+}
+
+
+#potte {
+    margin-left: -10px;
+    width: 1320px;
+    padding: 10px; 
+    background-position: 50px;
+    background: url(https://th.bing.com/th/id/R.0f1926b2d61da3fc016fce7aa7647584?rik=d5vxFq%2fF4Mrzyg&pid=ImgRaw&r=0);
+}
+
+a,
+#nnn {
+
+    margin-left: 10px;
+    align-items: center;
+    padding-right: 35px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px transparent;
+    display: center;
+    justify-content: space-around;
+    transition: 0.6s;
+
+
+}
+
+.waviy {
+
+    text-align: center;
+    padding: 25px;
+    position: relative;
+    -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0, 0, 0, .2));
+
+}
+
+.waviy span {
+    color: black;
+    border-radius: 15px;
+    position: relative;
+    display: inline-block;
+    font-size: 4rem;
+    text-transform: uppercase;
+    animation: waviy 1s infinite;
+    animation-delay: calc(.1s * var(--i));
+
+}
+
+@keyframes waviy {
+
+    0%,
+    40%,
+    100% {
+        transform: translateY(0)
+    }
+
+    20% {
+        transform: translateY(-20px);
+    }
+}
+
+.grifinoria {
+    font-size: 18px;
+    margin: 45px;
+    margin-left: 30px;
+    padding-left: 35px;
+    text-align: left;
+    background: rgb(211, 170, 101);
+    width: 532px;
+    height: 295px;
+}
+
+#grifinoria {
+
+    padding: 10px;
+    margin: 25px;
+    margin-right: 55px;
+    float: right;
+    width: 420px;
+    height: 335px;
+}
+
+.lufffff {
+    font-size: 17px;
+    margin: 45px;
+    margin-left: 30px;
+    padding-left: 35px;
+    text-align: left;
+    background: rgb(211, 170, 101);
+    width: 545px;
+    height: 325px;
+}
+
+#luffff3 {
+    margin: 30px;
+    margin-right: 55px;
+    float: right;
+    width: 445px;
+    height: 375px;
+
+}
+
+#corvinal2 {
+
+    margin: 30px;
+    margin-right: 55px;
+    float: right;
+    width: 445px;
+    height: 375px;
+}
+
+.corvinal1 {
+    font-size: 18px;
+    margin: 45px;
+    margin-left: 30px;
+    padding-left: 35px;
+    text-align: left;
+    background: rgb(211, 170, 101);
+    width: 465px;
+    height: 335px;
+}
